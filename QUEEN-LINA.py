@@ -389,15 +389,16 @@ def follow(ses,coki):
 	get = r.find('a', string='Follow').get('href')
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
-logo = (""" '\n  \x1b[1;91m  
-                                                                                  
- oooo    oooo         ooooooooo.           oooo    oooo 
-`888   .8P'          `888   `Y88.         `888   .8P'  
- 888  d8'             888   .d88'          888  d8'    
- 88888[               888ooo88P'           88888[      
- 888`88b.    8888888  888         8888888  888`88b.    
- 888  `88b.           888                  888  `88b.  
-o888o  o888o         o888o                o888o  o888o       \033[1;32m                   
+logo = (""" '\n  \x1b[1;91m                                                            
+
+  (     (        )          
+ )\)  )\)  ( /(   (      
+(()/( (()/(  )\))  )\    
+ /(_)) /(_))((_)\(((_)(   
+(_))  (_))   _((_))\_ )\ 
+| |   |_ _| | \ |(_)_\_) 
+| |__  | |  | .` | / _ \  
+|____||___| |_|\|/_/ \\     \033[1;32m                   
 ______________________________
 
   OWNER   :      LINA KHAN 
