@@ -400,13 +400,10 @@ logo = (""" '\n  \x1b[1;91m
 | |   |_ _| | \| |(_)_\(_) 
 | |__  | |  | .` | / _ \   
 |____||___| |_|\_|/_/ \_\      \033[1;32m                   
-
   
-  OWNER   :      LINA 
- 
+  OWNER   :      LINA KHAN 
   GITHUB   :      LINA-QUEEN42
-
-  Facebook :      LINA 
+  Facebook :      LINA KHAN 
 __________________________________\033[1;37m""")
 class Main:
 	def __init__(self):
