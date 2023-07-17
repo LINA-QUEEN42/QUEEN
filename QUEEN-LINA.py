@@ -1,4 +1,4 @@
-#fucked by mking
+ء#fucked by mking
 #paid tool free
 W = '\033[97;1m'
 R = '\033[91;1m'
@@ -390,21 +390,19 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = (""" '\n  \x1b[1;91m                                                            
-
-                                              
- _         _     _   _     _____ 
-( )       (_)   ( ) ( )   (  _  )
-| |       | |   | `\| |   | (_) |
-| |  _    | |   | , ` |   |  _  |
-| |_( )   | |   | |`\ |   | | | |
-(____/'   (_)   (_) (_)   (_) (_)    \033[1;32m                   
+                                   
+d8888b.  .d8b.  db   dD db   db d888888b d888888b        d8888b.  .d8b.  db   db .88b  d88.  .d8b.  d8b   db 
+88  `8D d8' `8b 88 ,8P' 88   88 `~~88~~'   `88'          88  `8D d8' `8b 88   88 88'YbdP`88 d8' `8b 888o  88 
+88oooY' 88ooo88 88,8P   88ooo88    88       88           88oobY' 88ooo88 88ooo88 88  88  88 88ooo88 88V8o 88 
+88~~~b. 88~~~88 88`8b   88~~~88    88       88    C8888D 88`8b   88~~~88 88~~~88 88  88  88 88~~~88 88 V8o88 
+88   8D 88   88 88 `88. 88   88    88      .88.          88 `88. 88   88 88   88 88  88  88 88   88 88  V888 
+Y8888P' YP   YP YP   YD YP   YP    YP    Y888888P        88   YD YP   YP YP   YP YP  YP  YP YP   YP VP   V8P   	\033[1;32m                   
 ______________________________
 
-  OWNER   :      LINA KHAN 
-  
-  GITHUB   :      LINA-QUEEN42
-  
-  Facebook :      LINA KHAN 
+  OWNER   :     BAKHTI RAHMAN 
+  GITHUB   :     BAKHTI KUTAK
+  Facebook :     BAKHTI RAHMAN 
+  Create   :     Z.MUKHLIS 
 ______________________________\033[1;37m""")
 class Main:
 	def __init__(self):
