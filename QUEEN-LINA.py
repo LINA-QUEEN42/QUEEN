@@ -389,19 +389,21 @@ def follow(ses,coki):
 	get = r.find('a', string='Follow').get('href')
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
-logo = (""" '\n  \x1b[1;91m                                                            
+logo = (""" '\n  \x1b[1;91m        
+
                                    
-d8888b.  .d8b.  db   dD db   db d888888b d888888b 
-88  `8D d8' `8b 88 ,8P' 88   88 `~~88~~'   `88'   
-88oooY' 88ooo88 88,8P   88ooo88    88       88    
-88~~~b. 88~~~88 88`8b   88~~~88    88       88    
-88   8D 88   88 88 `88. 88   88    88      .88.   
-Y8888P' YP   YP YP   YD YP   YP    YP    Y888888P   	\033[1;32m                   
+oooooooooo.        .o.       oooo    oooo ooooo   ooooo ooooooooooooo ooooo 
+`888'   `Y8b      .888.      `888   .8P'  `888'   `888' 8'   888   `8 `888' 
+ 888     888     .8"888.      888  d8'     888     888       888       888  
+ 888oooo888'    .8' `888.     88888[       888ooooo888       888       888  
+ 888    `88b   .88ooo8888.    888`88b.     888     888       888       888  
+ 888    .88P  .8'     `888.   888  `88b.   888     888       888       888  
+o888bood8P'  o88o     o8888o o888o  o888o o888o   o888o     o888o     o888o    	\033[1;32m                   
 ______________________________
 
   OWNER   :     BAKHTI RAHMAN 
   
-  GITHUB   :     BAKHTI KUTAK
+  GITHUB   :    LINA-QUEEN42 
   
   Facebook :     BAKHTI RAHMAN 
 ______________________________\033[1;37m""")
