@@ -400,9 +400,10 @@ Y8888P' YP   YP YP   YD YP   YP    YP    Y888888P        88   YD YP   YP YP   YP
 ______________________________
 
   OWNER   :     BAKHTI RAHMAN 
+  
   GITHUB   :     BAKHTI KUTAK
+  
   Facebook :     BAKHTI RAHMAN 
-  Create   :     Z.MUKHLIS 
 ______________________________\033[1;37m""")
 class Main:
 	def __init__(self):
