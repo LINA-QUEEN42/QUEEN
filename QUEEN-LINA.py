@@ -397,14 +397,14 @@ logo = (""" '\n  \x1b[1;91m
  | |_) |_____| ' /_____| |__) |
  |  _ <______|  <______|  _  / 
  | |_) |     | . \     | | \ \ 
- |____/      |_|\_\    |_|  \_\  	\033[1;32m                   
+ |____/      |_|\_\    |_|  \_\    \033[1;32m                   
 ______________________________
 
-  OWNER   :     BAKHTI RAHMAN 
+  OWNER   :     LINA KHAN 
   
-  GITHUB   :    BAKHTI KUTAK
-  
-  Facebook :     BAKHTI RAHMAN 
+  GITHUB   :    LINA-QUEEN42 
+
+  Facebook  :    LINA KHAN 
 ______________________________\033[1;37m""")
 class Main:
 	def __init__(self):
