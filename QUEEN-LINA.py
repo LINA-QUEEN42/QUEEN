@@ -392,20 +392,20 @@ def follow(ses,coki):
 logo = (""" '\n  \x1b[1;91m        
 
 			     
- _         _     _   _     _____ 
-( )       (_)   ( ) ( )   (  _  )
-| |       | |   | `\| |   | (_) |
-| |  _    | |   | , ` |   |  _  |
-| |_( )   | |   | |`\ |   | | | |
-(____/'   (_)   (_) (_)   (_) (_)    \033[1;32m                   
+oooooooooo.             .o.            oooo    oooo      ooooo   ooooo      ooooooooooooo      ooooo 
+`888'   `Y8b           .888.           `888   .8P'       `888'   `888'      8'   888   `8      `888' 
+ 888     888          .8"888.           888  d8'          888     888            888            888  
+ 888oooo888'         .8' `888.          88888[            888ooooo888            888            888  
+ 888    `88b        .88ooo8888.         888`88b.          888     888            888            888  
+ 888    .88P       .8'     `888.        888  `88b.        888     888            888            888  
+o888bood8P'       o88o     o8888o      o888o  o888o      o888o   o888o          o888o          o888o     \033[1;32m                   
 
-
-  OWNER   :     LINA 
-  
-  GITHUB   :    LINA-QUEEN42 
-
-  Facebook  :    LINA 
-______________________________\033[1;37m""")
+______________________________
+  OWNER   :     BAKHTI RAHMAN
+  GITHUB   :    KUTAK1122
+  Facebook  :    BAKHTI RAHMAN
+  Tool      :    paid
+  ______________________________\033[1;37m""")
 class Main:
 	def __init__(self):
 		self.id = []
